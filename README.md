@@ -1,20 +1,20 @@
-# Diabetes Prediction Project
+# Vaccine Sentiment Analysis Project
 
 ## Overview
 
-This project utilizes machine learning to predict diabetes. It explores ensemble learning, various metrics, and different machine learning algorithms for optimal prediction accuracy.
+This project aims to analyze public sentiment on different vaccines using various parameters such as hashtags, popularity, user verification status, and tweet engagement. The goal is to identify top user characteristics and gauge public sentiment on each vaccine opinion.
 
 ## Features
 
-- **Data:** Utilizes https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset.
-- **Methods:** Implements ensemble learning and diverse machine learning techniques.
-- **Metrics:** Evaluation metrics include F1-score, precision, Accuracy, etc.
-- **Algorithms:** Tests multiple machine learning algorithms (Regression Logistic, SVM, KNN, Random Forest, ANN, Decision Tree) .
+- **Data:** https://www.kaggle.com/datasets/gpreda/pfizer-vaccine-tweet and https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets
+- **Methods:** Utilizes sentiment analysis techniques and explores characteristics of top users.
+- **Parameters:** Analyzes hashtags, popularity, user verification, and engagement for each vaccine opinion.
 
 ## Usage
 
-To replicate the experiment, follow setup instructions, data preprocessing steps, and execute the model.
+To replicate the analysis, follow setup instructions, data preprocessing steps, and execute the sentiment analysis.
 
 ## Contributing
 
-Feel free to contribute following the provided guidelines.
+Contributions are welcome following the provided guidelines.
+
