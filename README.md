@@ -18,3 +18,7 @@ To replicate the analysis, follow setup instructions, data preprocessing steps, 
 
 Contributions are welcome following the provided guidelines.
 
+## License
+
+This project is open-source and is licensed under the [MIT License](LICENSE) which allows for free use, modification, and distribution, even for commercial purposes.
+
